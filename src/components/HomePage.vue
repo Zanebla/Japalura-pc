@@ -1,7 +1,7 @@
 <template>
   <div>
     <h1>Japalura Demo 🦎</h1>
-    <p>This is a fantastic application for Image Processing</p>
+    <p>This is a fantastic application for you and for art</p>
     <router-link to="/text-to-image"
       >Get Started with Text to Image</router-link
     >
